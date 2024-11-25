@@ -1,0 +1,12 @@
+com\sofi\controller\AddBatchController.class
+com\sofi\controller\WelcomeAdminController.class
+com\sofi\dao\BatchDAO.class
+com\sofi\db\DB.class
+com\sofi\dao\ParticipantDAO.class
+com\sofi\bean\Participant.class
+com\sofi\bean\BatchParticipant.class
+com\sofi\dao\ParticipantBatchDAO.class
+com\sofi\controller\AddParticipantController.class
+com\sofi\controller\RegisterBatchController.class
+com\sofi\bean\Batch.class
+com\sofi\controller\LogoutServlet.class
