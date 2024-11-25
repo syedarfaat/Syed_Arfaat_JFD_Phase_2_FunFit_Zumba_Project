@@ -1,4 +1,4 @@
-
+The jar file can be found inside the target folder.
 # Zumba Website 
 
 This application is designed to manage the enrollment and scheduling of students for Zumba classes. It features two main modules:
